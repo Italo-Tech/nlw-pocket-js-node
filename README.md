@@ -35,4 +35,7 @@ O in.Orbit é um projeto que visa criar tarefas diárias semanais.
 2. Rode `npm i` para instalar as dependências;
 4. Rode `docker compose up -d` para rodar o container do projeto.
 5. Rode `npm run dev` para rodar o servidor do projeto.
+6. Rode `npx drizzle-kit generate` para criar o banco.
+7. Rode `npx drizzle-kit studio` para visualizar o banco com UI na web.
+8. Rode `npx drizzle-kit migrate` para criar as migrations.
 
